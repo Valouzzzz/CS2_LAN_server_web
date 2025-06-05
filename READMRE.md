@@ -11,3 +11,18 @@ A lightweight web tool to track **kills**, **match statistics**, and **Elo ranki
 
 ```bash
 python server.py```
+
+3. In the CS2 console, enter the following command (replace your_ip with your actual local IP address):
+
+
+```bash
+logaddress_add_http "http://your_ip:80/logs"```
+
+4. Open a web browser and go to:
+
+
+```bash
+http://your_ip```
+
+
+---
