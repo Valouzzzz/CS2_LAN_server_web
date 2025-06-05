@@ -29,3 +29,13 @@ http://your_ip
 
 
 ---
+
+## 🖥️ Main Features
+
+✅ Real-time kill feed display (auto-refresh every 10 seconds)
+
+📊 Live match statistics table (kills, deaths, K/D ratio, etc.)
+
+🏆 Elo ranking system based on player performance
+
+🔄 Automatic log data collection using CS2’s logaddress_add_http API
