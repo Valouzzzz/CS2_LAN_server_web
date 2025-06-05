@@ -65,3 +65,17 @@ Easily generate custom commands to tweak your match settings.
 Python 3.x
 
 Flask (pip install flask)
+
+---
+
+## 🔮 Planned Features
+
+- 🤖 **Discord Integration**  
+  Automatic match updates, killfeed highlights, and Elo ranking posts directly in your Discord server.
+
+- 🗳️ **Map Voting System**  
+  Let players vote for the next map through the web interface or Discord integration.
+
+- 📈 **Enhanced Elo System & Tournament Bracket**  
+  - More accurate Elo calculations with support for K-factor tuning, win streak bonuses, and placement matches.  
+  - Smarter tournament bracket logic: automatic seeding, match history, and final results display.
