@@ -57,3 +57,11 @@ Easily generate custom commands to tweak your match settings.
 - Enter player names
 
 - The match tree is generated automatically
+
+---
+
+## 🔧 Requirements
+
+Python 3.x
+
+Flask (pip install flask)
