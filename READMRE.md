@@ -50,10 +50,10 @@ Easily generate custom commands to tweak your match settings.
 
 🏆 tournois.html
 
-Create a 1v1 tournament bracket:
+- Create a 1v1 tournament bracket:
 
-Choose the number of players
+- Choose the number of players
 
-Enter player names
+- Enter player names
 
-The match tree is generated automatically
+- The match tree is generated automatically
