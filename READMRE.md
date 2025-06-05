@@ -39,3 +39,21 @@ http://your_ip
 🏆 Elo ranking system based on player performance
 
 🔄 Automatic log data collection using CS2’s logaddress_add_http API
+
+---
+
+## 🌐 Additional Pages (in the templates/ folder)
+
+📋 commande.html
+
+Easily generate custom commands to tweak your match settings.
+
+🏆 tournois.html
+
+Create a 1v1 tournament bracket:
+
+Choose the number of players
+
+Enter player names
+
+The match tree is generated automatically
